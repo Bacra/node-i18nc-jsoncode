@@ -1,7 +1,7 @@
 {
   "name": "i18nc-jsoncode",
   "version": "1.0.0",
-  "description": "I18N JsonCode Tool for JS files",
+  "description": "I18N Json Code Tool",
   "main": "index.js",
   "scripts": {
     "prepublish": "npm ls",
