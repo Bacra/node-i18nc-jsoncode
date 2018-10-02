@@ -21,17 +21,17 @@ npm install i18nc-jsoncode --save
 
 ## Parser
 
-### translateAst2JSON
+### parser.translateAst2JSON
 
-### codeJSON2translateJSON
+### parser.codeJSON2translateJSON
 
-## generator
+## Generator
 
-### toTranslateJSON
+### generator.toTranslateJSON
 
-### fillNoUsedCodeTranslateWords
+### generator.fillNoUsedCodeTranslateWords
 
-### genTranslateJSONCode
+### generator.genTranslateJSONCode
 
 
 
@@ -40,6 +40,6 @@ npm install i18nc-jsoncode --save
 [npm-url]: https://www.npmjs.org/package/i18nc-jsoncode
 [travis-image]: https://travis-ci.com/Bacra/node-i18nc-jsoncode.svg?branch=master
 [travis-url]: https://travis-ci.com/Bacra/node-i18nc-jsoncode
-[coveralls-image]: https://img.shields.io/coveralls/Bacra/node-i18nc-jsoncode-cli.svg
-[coveralls-url]: https://coveralls.io/github/Bacra/node-i18nc-jsoncode-cli
+[coveralls-image]: https://img.shields.io/coveralls/Bacra/node-i18nc-jsoncode.svg
+[coveralls-url]: https://coveralls.io/github/Bacra/node-i18nc-jsoncode
 [license-image]: http://img.shields.io/npm/l/i18nc-jsoncode.svg
