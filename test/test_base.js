@@ -1,7 +1,7 @@
 'use strict';
 
 var expect = require('expect.js');
-var jsoncode = require('i18nc-jsoncode');
+var jsoncode = require('../');
 
 describe('#base', function()
 {
